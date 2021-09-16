@@ -24,7 +24,7 @@ const Base = ({
                     <button className="btn btn-warning btn-lg">Contact Us</button>
                 </div>
                 <div className="container">
-                    <span className="text-muted">An Amazing <span className="text-white">MERN</span> Bootcamp</span>
+                    <span className="text-muted">Developed By <span className="text-white">Mayuresh Kunder</span></span>
                 </div>
             </footer>
         </div>
